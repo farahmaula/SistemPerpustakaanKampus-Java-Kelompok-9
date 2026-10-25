@@ -5,7 +5,11 @@ Berdasarkan permasalahan yang ada dibuatlah program sistem manajemen perpustakaa
 ## Tugas Pemrograman Java
 
   **Mata Kuliah:** Pemrograman Berorientasi Objek
+  
   **Dosen Pengampu:** M. Ibadurrahman Arrasyid Supriyanto M.Kom.
+
   **Program Studi:** Sistem Informasi
+  
   **Angkatan:** 2025
-  **Kelompok:** 8 (UBAH)
+  
+  **Kelompok:** 9
