@@ -3,8 +3,9 @@ Perpustaan adalah salah satu tempat yang menyediakan berbagai macam koleksi buku
 Berdasarkan permasalahan yang ada dibuatlah program sistem manajemen perpustakaan kampus menggunakan pemrograman bebasis Java. Program ini dibuat untuk membantu memudahkan dalam pengelolaan data perpustakaan yang dapat digunakan oleh pengguna. 
 
 ## Tugas Pemrograman Java
-**Mata Kuliah:** Pemrograman Berorientasi Objek
-**Dosen Pengampu:** M. Ibadurrahman Arrasyid Supriyanto M.Kom.
-**Program Studi:** Sistem Informasi
-**Angkatan:** 2025
-**Kelompok:** 8 (UBAH)
+
+  **Mata Kuliah:** Pemrograman Berorientasi Objek
+  **Dosen Pengampu:** M. Ibadurrahman Arrasyid Supriyanto M.Kom.
+  **Program Studi:** Sistem Informasi
+  **Angkatan:** 2025
+  **Kelompok:** 8 (UBAH)
