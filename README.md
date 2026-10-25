@@ -13,3 +13,11 @@ Berdasarkan permasalahan yang ada dibuatlah program sistem manajemen perpustakaa
   **Angkatan:** 2025
   
   **Kelompok:** 9
+
+## Anggota Kelompok 8 (UBAH)
+1. *AHMAD FAJAR NOVIA* - 2509116041 - Kelas B
+2. *FARAH HIKMATUL MAULA* - 2509116099 - Kelas C
+3. *HARITS* - 2509116048 - Kelas B
+4. *MARZA HANAYA MELODYA GOGA* - 2409116103 - Kelas C
+
+## Struktur File Proyek
