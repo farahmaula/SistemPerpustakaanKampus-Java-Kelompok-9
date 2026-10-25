@@ -21,3 +21,5 @@ Berdasarkan permasalahan yang ada dibuatlah program sistem manajemen perpustakaa
 4. *MARZA HANAYA MELODYA GOGA* - 2409116103 - Kelas C
 
 ## Struktur File Proyek
+<img width="611" height="290" alt="image" src="https://github.com/user-attachments/assets/5c876d4d-8c73-44f5-8582-71e04055e49d" />
+Gambar diatas adalah struktur dari sistem perpustakaan kampus yang telah dibuat. Didalam package model ada 2 class yaitu class buku dan transaksi yang digunakan untuk menyimpan data buku dan peminjaman buku oleh mahasiswa. Kemudian
